@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/shyam20433/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0888-fair-candy-swap](https://github.com/shyam20433/LEETCODE/tree/master/0888-fair-candy-swap) |
 ## Binary Search
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shyam20433/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/shyam20433/LEETCODE/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/shyam20433/LEETCODE/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
