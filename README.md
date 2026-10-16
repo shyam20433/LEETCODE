@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/shyam20433/LEETCODE/tree/master/0137-single-number-ii) |
 | [0888-fair-candy-swap](https://github.com/shyam20433/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyam20433/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyam20433/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/shyam20433/LEETCODE/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
