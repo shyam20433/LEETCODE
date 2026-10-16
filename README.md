@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/shyam20433/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/shyam20433/LEETCODE/tree/master/0242-valid-anagram) |
 | [0888-fair-candy-swap](https://github.com/shyam20433/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyam20433/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Search
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shyam20433/LEETCODE/tree/master/0242-valid-anagram) |
 | [0888-fair-candy-swap](https://github.com/shyam20433/LEETCODE/tree/master/0888-fair-candy-swap) |
 ## Math
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/shyam20433/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/shyam20433/LEETCODE/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
