@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/shyam20433/LEETCODE/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/shyam20433/LEETCODE/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/shyam20433/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0888-fair-candy-swap](https://github.com/shyam20433/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyam20433/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shyam20433/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -62,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/shyam20433/LEETCODE/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/shyam20433/LEETCODE/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
