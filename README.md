@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/shyam20433/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/shyam20433/LEETCODE/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/shyam20433/LEETCODE/tree/master/0389-find-the-difference) |
 | [0888-fair-candy-swap](https://github.com/shyam20433/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyam20433/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shyam20433/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shyam20433/LEETCODE/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/shyam20433/LEETCODE/tree/master/0389-find-the-difference) |
 | [0888-fair-candy-swap](https://github.com/shyam20433/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shyam20433/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/shyam20433/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/shyam20433/LEETCODE/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/shyam20433/LEETCODE/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/shyam20433/LEETCODE/tree/master/0137-single-number-ii) |
+| [0389-find-the-difference](https://github.com/shyam20433/LEETCODE/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
