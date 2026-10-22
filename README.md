@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/shyam20433/LEETCODE/tree/master/0056-merge-intervals) |
 | [0137-single-number-ii](https://github.com/shyam20433/LEETCODE/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/shyam20433/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shyam20433/LEETCODE/tree/master/0213-house-robber-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/shyam20433/LEETCODE/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/shyam20433/LEETCODE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shyam20433/LEETCODE/tree/master/0389-find-the-difference) |
 | [0888-fair-candy-swap](https://github.com/shyam20433/LEETCODE/tree/master/0888-fair-candy-swap) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/shyam20433/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shyam20433/LEETCODE/tree/master/0213-house-robber-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shyam20433/LEETCODE/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
