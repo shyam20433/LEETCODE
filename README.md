@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/shyam20433/LEETCODE/tree/master/0056-merge-intervals) |
 | [0137-single-number-ii](https://github.com/shyam20433/LEETCODE/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/shyam20433/LEETCODE/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shyam20433/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shyam20433/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0888-fair-candy-swap](https://github.com/shyam20433/LEETCODE/tree/master/0888-fair-candy-swap) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/shyam20433/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/shyam20433/LEETCODE/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/shyam20433/LEETCODE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shyam20433/LEETCODE/tree/master/0389-find-the-difference) |
 | [0888-fair-candy-swap](https://github.com/shyam20433/LEETCODE/tree/master/0888-fair-candy-swap) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/shyam20433/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/shyam20433/LEETCODE/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/shyam20433/LEETCODE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shyam20433/LEETCODE/tree/master/0389-find-the-difference) |
 | [1169-invalid-transactions](https://github.com/shyam20433/LEETCODE/tree/master/1169-invalid-transactions) |
@@ -72,10 +75,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/shyam20433/LEETCODE/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shyam20433/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shyam20433/LEETCODE/tree/master/0213-house-robber-ii) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shyam20433/LEETCODE/tree/master/0056-merge-intervals) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shyam20433/LEETCODE/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shyam20433/LEETCODE/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shyam20433/LEETCODE/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
