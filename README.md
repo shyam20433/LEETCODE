@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shyam20433/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0888-fair-candy-swap](https://github.com/shyam20433/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1169-invalid-transactions](https://github.com/shyam20433/LEETCODE/tree/master/1169-invalid-transactions) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shyam20433/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shyam20433/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyam20433/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shyam20433/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shyam20433/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shyam20433/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
