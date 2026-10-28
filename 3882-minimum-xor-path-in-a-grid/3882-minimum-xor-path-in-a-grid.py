@@ -1,6 +1,6 @@
 class Solution:
     def minCost(self, grid: list[list[int]]) -> int:
-        #  Wont work beacause ^ is monotonic so next value wont decide the minimum value so greedy dp wont work
+        #  Wont work beacause ^ is not monotonic so next value wont decide the minimum value so greedy dp wont work
         # for i in range(len(grid)):
         #     for j in range(len(grid[0])):
         #         if i==0 and j==0:
