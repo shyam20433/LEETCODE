@@ -3,10 +3,8 @@ class Solution:
         wordList=set(wordList)
         if endWord not in wordList:
             return 0
-        adj=defaultdict(list)
-        adj[beginWord]=[]
         wordList.add(beginWord)
-        words=list(wordList)
+        all_words=list(wordList)
         
         def isConnected(word1,word2):
             count=0
@@ -15,15 +13,27 @@ class Solution:
                     if count>0:return False
                     count+=1
             return True
-
-        for i in range(len(words)):
-            for j in range(i+1,len(words)):
-                word1=words[i]
-                word2=words[j]
+        # O(n*2.l) too slow
+        # for i in range(len(all_words)):
+        #     for j in range(i+1,len(all_words)):
+        #         word1=all_words[i]
+        #         word2=all_words[j]
                 
-                if isConnected(word1,word2):
-                    adj[word2].append(word1)
-                    adj[word1].append(word2)
+        #         if isConnected(word1,word2):
+        #             adj[word2].append(word1)
+        #             adj[word1].append(word2)
+
+        #O(n.l.26)
+        adj=defaultdict(list)
+        for word in all_words:
+            for i in range(len(word)):
+                curr=word[i]
+                for char in  'abcdefghijklmnopqrstuvwxyz':
+                    if char ==curr:
+                        continue
+                    next_word=word[:i]+char+word[i+1:]
+                    if next_word in wordList:
+                        adj[word].append(next_word)
         #shortest path for bfs
         queue=deque()
         visited=set()
