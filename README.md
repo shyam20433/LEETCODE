@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shyam20433/LEETCODE/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/shyam20433/LEETCODE/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/shyam20433/LEETCODE/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/shyam20433/LEETCODE/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shyam20433/LEETCODE/tree/master/0198-house-robber) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/shyam20433/LEETCODE/tree/master/0066-plus-one) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shyam20433/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shyam20433/LEETCODE/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shyam20433/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
