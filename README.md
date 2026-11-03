@@ -126,11 +126,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/shyam20433/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/shyam20433/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shyam20433/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String Matching
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/shyam20433/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0456-132-pattern](https://github.com/shyam20433/LEETCODE/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
