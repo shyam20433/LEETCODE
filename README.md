@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/shyam20433/LEETCODE/tree/master/1169-invalid-transactions) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shyam20433/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shyam20433/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/shyam20433/LEETCODE/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/shyam20433/LEETCODE/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyam20433/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shyam20433/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/shyam20433/LEETCODE/tree/master/0824-goat-latin) |
 | [1169-invalid-transactions](https://github.com/shyam20433/LEETCODE/tree/master/1169-invalid-transactions) |
 | [1859-sorting-the-sentence](https://github.com/shyam20433/LEETCODE/tree/master/1859-sorting-the-sentence) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/shyam20433/LEETCODE/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0647-palindromic-substrings](https://github.com/shyam20433/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/shyam20433/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/shyam20433/LEETCODE/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Bubble Sort
 |  |
 | ------- |
