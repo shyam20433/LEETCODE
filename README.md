@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/shyam20433/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1169-invalid-transactions](https://github.com/shyam20433/LEETCODE/tree/master/1169-invalid-transactions) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shyam20433/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/shyam20433/LEETCODE/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyam20433/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shyam20433/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/shyam20433/LEETCODE/tree/master/0819-most-common-word) |
 | [0824-goat-latin](https://github.com/shyam20433/LEETCODE/tree/master/0824-goat-latin) |
 | [1169-invalid-transactions](https://github.com/shyam20433/LEETCODE/tree/master/1169-invalid-transactions) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/shyam20433/LEETCODE/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/shyam20433/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shyam20433/LEETCODE/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Sliding Window
