@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/shyam20433/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/shyam20433/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0819-most-common-word](https://github.com/shyam20433/LEETCODE/tree/master/0819-most-common-word) |
+| [0824-goat-latin](https://github.com/shyam20433/LEETCODE/tree/master/0824-goat-latin) |
 | [1169-invalid-transactions](https://github.com/shyam20433/LEETCODE/tree/master/1169-invalid-transactions) |
 ## Sliding Window
 |  |
