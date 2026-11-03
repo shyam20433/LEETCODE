@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shyam20433/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shyam20433/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shyam20433/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/shyam20433/LEETCODE/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shyam20433/LEETCODE/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shyam20433/LEETCODE/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shyam20433/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shyam20433/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/shyam20433/LEETCODE/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Greedy
 |  |
 | ------- |
