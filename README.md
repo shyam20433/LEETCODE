@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shyam20433/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shyam20433/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shyam20433/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shyam20433/LEETCODE/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-number-of-different-integers-in-a-string](https://github.com/shyam20433/LEETCODE/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyam20433/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shyam20433/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shyam20433/LEETCODE/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shyam20433/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1859-sorting-the-sentence](https://github.com/shyam20433/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shyam20433/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shyam20433/LEETCODE/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
 | ------- |
@@ -191,11 +194,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/shyam20433/LEETCODE/tree/master/0819-most-common-word) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shyam20433/LEETCODE/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Simulation
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/shyam20433/LEETCODE/tree/master/0495-teemo-attacking) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shyam20433/LEETCODE/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shyam20433/LEETCODE/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Game Theory
 |  |
 | ------- |
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/shyam20433/LEETCODE/tree/master/0456-132-pattern) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shyam20433/LEETCODE/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/shyam20433/LEETCODE/tree/master/1859-sorting-the-sentence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shyam20433/LEETCODE/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
