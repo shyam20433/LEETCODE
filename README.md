@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/shyam20433/LEETCODE/tree/master/0456-132-pattern) |
 | [0495-teemo-attacking](https://github.com/shyam20433/LEETCODE/tree/master/0495-teemo-attacking) |
 | [0819-most-common-word](https://github.com/shyam20433/LEETCODE/tree/master/0819-most-common-word) |
+| [0832-flipping-an-image](https://github.com/shyam20433/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0888-fair-candy-swap](https://github.com/shyam20433/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1169-invalid-transactions](https://github.com/shyam20433/LEETCODE/tree/master/1169-invalid-transactions) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shyam20433/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/shyam20433/LEETCODE/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/shyam20433/LEETCODE/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/shyam20433/LEETCODE/tree/master/0832-flipping-an-image) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shyam20433/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/shyam20433/LEETCODE/tree/master/0832-flipping-an-image) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shyam20433/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shyam20433/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bidirectional Search
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/shyam20433/LEETCODE/tree/master/0495-teemo-attacking) |
+| [0832-flipping-an-image](https://github.com/shyam20433/LEETCODE/tree/master/0832-flipping-an-image) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shyam20433/LEETCODE/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shyam20433/LEETCODE/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Game Theory
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0647-palindromic-substrings](https://github.com/shyam20433/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/shyam20433/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/shyam20433/LEETCODE/tree/master/0832-flipping-an-image) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shyam20433/LEETCODE/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Bubble Sort
 |  |
