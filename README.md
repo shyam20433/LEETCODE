@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/shyam20433/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/shyam20433/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0341-flatten-nested-list-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/shyam20433/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/shyam20433/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
 | [0456-132-pattern](https://github.com/shyam20433/LEETCODE/tree/master/0456-132-pattern) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0284-peeking-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -273,4 +277,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0284-peeking-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
