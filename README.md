@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/shyam20433/LEETCODE/tree/master/0819-most-common-word) |
 | [0824-goat-latin](https://github.com/shyam20433/LEETCODE/tree/master/0824-goat-latin) |
 | [1169-invalid-transactions](https://github.com/shyam20433/LEETCODE/tree/master/1169-invalid-transactions) |
+| [1286-iterator-for-combination](https://github.com/shyam20433/LEETCODE/tree/master/1286-iterator-for-combination) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/shyam20433/LEETCODE/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/shyam20433/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shyam20433/LEETCODE/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
+| [1286-iterator-for-combination](https://github.com/shyam20433/LEETCODE/tree/master/1286-iterator-for-combination) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -278,8 +280,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
+| [1286-iterator-for-combination](https://github.com/shyam20433/LEETCODE/tree/master/1286-iterator-for-combination) |
 ## Queue
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0341-flatten-nested-list-iterator) |
+## Backtracking
+|  |
+| ------- |
+| [1286-iterator-for-combination](https://github.com/shyam20433/LEETCODE/tree/master/1286-iterator-for-combination) |
 <!---LeetCode Topics End-->
