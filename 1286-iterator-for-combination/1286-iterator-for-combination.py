@@ -5,7 +5,7 @@ class CombinationIterator:
         self.res=[]
         def backtrack(sol,k,start):
             if len(sol)==k:
-                self.res.append("".join(sorted(sol)))
+                self.res.append("".join(sol))
                 return
             
             for i in range(start,len(characters)):
