@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/shyam20433/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/shyam20433/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/shyam20433/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/shyam20433/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0456-132-pattern](https://github.com/shyam20433/LEETCODE/tree/master/0456-132-pattern) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -255,4 +258,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shyam20433/LEETCODE/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shyam20433/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
