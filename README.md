@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shyam20433/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/shyam20433/LEETCODE/tree/master/0456-132-pattern) |
 | [0495-teemo-attacking](https://github.com/shyam20433/LEETCODE/tree/master/0495-teemo-attacking) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shyam20433/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/shyam20433/LEETCODE/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/shyam20433/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0888-fair-candy-swap](https://github.com/shyam20433/LEETCODE/tree/master/0888-fair-candy-swap) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shyam20433/LEETCODE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shyam20433/LEETCODE/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/shyam20433/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shyam20433/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/shyam20433/LEETCODE/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/shyam20433/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1169-invalid-transactions](https://github.com/shyam20433/LEETCODE/tree/master/1169-invalid-transactions) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shyam20433/LEETCODE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shyam20433/LEETCODE/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/shyam20433/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shyam20433/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/shyam20433/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/shyam20433/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0819-most-common-word](https://github.com/shyam20433/LEETCODE/tree/master/0819-most-common-word) |
