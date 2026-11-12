@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shyam20433/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/shyam20433/LEETCODE/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/shyam20433/LEETCODE/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shyam20433/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/shyam20433/LEETCODE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shyam20433/LEETCODE/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/shyam20433/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shyam20433/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shyam20433/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shyam20433/LEETCODE/tree/master/0018-4sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shyam20433/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0647-palindromic-substrings](https://github.com/shyam20433/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/shyam20433/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/shyam20433/LEETCODE/tree/master/0832-flipping-an-image) |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shyam20433/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/shyam20433/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
