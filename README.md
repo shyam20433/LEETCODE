@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-number-of-different-integers-in-a-string](https://github.com/shyam20433/LEETCODE/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/shyam20433/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shyam20433/LEETCODE/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shyam20433/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/shyam20433/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0495-teemo-attacking](https://github.com/shyam20433/LEETCODE/tree/master/0495-teemo-attacking) |
 | [0832-flipping-an-image](https://github.com/shyam20433/LEETCODE/tree/master/0832-flipping-an-image) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shyam20433/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shyam20433/LEETCODE/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3838-weighted-word-mapping](https://github.com/shyam20433/LEETCODE/tree/master/3838-weighted-word-mapping) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shyam20433/LEETCODE/tree/master/4065-rearrange-array-by-removing-distinct-values) |
