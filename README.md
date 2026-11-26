@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shyam20433/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shyam20433/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shyam20433/LEETCODE/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3360-stone-removal-game](https://github.com/shyam20433/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shyam20433/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shyam20433/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/shyam20433/LEETCODE/tree/master/4061-minimum-queen-moves-to-reach-target) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/shyam20433/LEETCODE/tree/master/0832-flipping-an-image) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shyam20433/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shyam20433/LEETCODE/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3360-stone-removal-game](https://github.com/shyam20433/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3838-weighted-word-mapping](https://github.com/shyam20433/LEETCODE/tree/master/3838-weighted-word-mapping) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shyam20433/LEETCODE/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Game Theory
