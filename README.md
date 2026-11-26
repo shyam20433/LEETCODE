@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/shyam20433/LEETCODE/tree/master/1169-invalid-transactions) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/shyam20433/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shyam20433/LEETCODE/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shyam20433/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shyam20433/LEETCODE/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/shyam20433/LEETCODE/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shyam20433/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/shyam20433/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shyam20433/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shyam20433/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Indexed Tree
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shyam20433/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shyam20433/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/shyam20433/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shyam20433/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shyam20433/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Quicksort
 |  |
