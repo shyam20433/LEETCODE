@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-number-of-different-integers-in-a-string](https://github.com/shyam20433/LEETCODE/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/shyam20433/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shyam20433/LEETCODE/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/shyam20433/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shyam20433/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/shyam20433/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shyam20433/LEETCODE/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/shyam20433/LEETCODE/tree/master/0682-baseball-game) |
+| [2000-reverse-prefix-of-word](https://github.com/shyam20433/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/shyam20433/LEETCODE/tree/master/0832-flipping-an-image) |
 | [1089-duplicate-zeros](https://github.com/shyam20433/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shyam20433/LEETCODE/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/shyam20433/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Bubble Sort
 |  |
 | ------- |
