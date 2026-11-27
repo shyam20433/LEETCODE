@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shyam20433/LEETCODE/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/shyam20433/LEETCODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/shyam20433/LEETCODE/tree/master/0066-plus-one) |
+| [0135-candy](https://github.com/shyam20433/LEETCODE/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/shyam20433/LEETCODE/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/shyam20433/LEETCODE/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shyam20433/LEETCODE/tree/master/0198-house-robber) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/shyam20433/LEETCODE/tree/master/0135-candy) |
 | [0680-valid-palindrome-ii](https://github.com/shyam20433/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shyam20433/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
