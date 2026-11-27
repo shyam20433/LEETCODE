@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/shyam20433/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shyam20433/LEETCODE/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/shyam20433/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/shyam20433/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shyam20433/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/shyam20433/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
